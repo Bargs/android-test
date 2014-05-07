@@ -54,3 +54,4 @@ release.properties
 project.properties
 */seed.txt
 gen-external-apklibs
+local.properties
