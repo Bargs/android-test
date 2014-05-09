@@ -30,7 +30,6 @@ proguard/
 # Intellij project files
 *.ipr
 *.iws
-.idea/
 
 # Apple
 .DS_Store
@@ -43,15 +42,6 @@ target/
 
 # Gradle
 .gradle
-build
-
-# Custom
-lib
-*/test-output
-temp-testng-customsuite.xml
-**pom.xml.releaseBackup
-release.properties
-project.properties
-*/seed.txt
-gen-external-apklibs
-local.properties
+/local.properties
+/.idea/workspace.xml
+.DS_Store
